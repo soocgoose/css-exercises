@@ -1,0 +1,20 @@
+body p.odd {
+	background-color: #f84b9c;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+body p.odd.large {
+	font-size: 24px;
+}
+
+body #second-number {
+	color: #63bfe0;
+	font-size: 36px;
+}
+
+body #fourth-number {
+	background-color: #5ce784;
+	font-size: 24px;
+	font-weight: bold;
+}
+
