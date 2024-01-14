@@ -1,0 +1,14 @@
+.button, .button-alt {
+	font-size: 28px;
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button {
+	color: white;
+	background-color: black;
+}
+
+.button-alt {
+	background-color: yellow;
+}
+
