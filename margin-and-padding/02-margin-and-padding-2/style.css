@@ -9,14 +9,9 @@ body {
   margin: 16px auto;
 }
 
-.title {
-  background: #e3f4ff;
-}
-
-.content {
-  background: #e3f4ff;
-}
-
+div.card
+.title,
+.content,
 .button-container {
   background: #e3f4ff;
 }
