@@ -7,6 +7,7 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 1px 8px;
 }
 
 div.card
@@ -14,9 +15,26 @@ div.card
 .content,
 .button-container {
   background: #e3f4ff;
+  margin: 8px 0px;
+  padding: 8px;
+}
+
+.content {
+  padding: 16px 8px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.button-container {
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
